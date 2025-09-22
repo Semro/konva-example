@@ -1,7 +1,7 @@
-const Konva = require("konva");
+// const Konva = require("konva");
 
-// import Konva from "konva";
-// import "konva/skia-backend"; // or 'konva/skia-backend'
+import Konva from "konva";
+import "konva/skia-backend"; // or 'konva/skia-backend'
 
 // Create a stage
 const stage = new Konva.Stage({
